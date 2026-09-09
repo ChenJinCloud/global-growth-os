@@ -98,3 +98,7 @@ MIT License - See [LICENSE](./LICENSE) for details
 **Last updated**: Sept 9, 2026  
 **Maintained by**: [ChenJin](https://github.com/ChenJinCloud)  
 **Next milestone**: First daily progress update on Sept 10
+
+---
+
+**[English](./README.md) | [中文](./README.zh.md)**
