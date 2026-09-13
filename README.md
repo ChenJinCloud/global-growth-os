@@ -46,7 +46,7 @@ From zero to one: Through 14 days of **build in public**, we construct an operat
 ## 🎁 9/24 Live Demo & Co-Creation
 
 **When**: Sept 24, 7PM-9PM  
-**Where**: WeKo Space (Dingding Park, Beijing)  
+**Where**: Hangzhou — AWW'26 Session 21, venue 未科1期 (pending Laura confirmation)  
 **What to expect**:
 - ✨ Live knowledge base Q&A demo
 - 🛠️ Toolkit hands-on workshop
@@ -95,9 +95,9 @@ MIT License - See [LICENSE](./LICENSE) for details
 
 ---
 
-**Last updated**: Sept 9, 2026  
+**Last updated**: Sept 13, 2026  
 **Maintained by**: [ChenJin](https://github.com/ChenJinCloud)  
-**Next milestone**: First daily progress update on Sept 10
+**Next milestone**: Continue build-in-public toward the Sept 24 Hangzhou AWW'26 demo
 
 ---
 
