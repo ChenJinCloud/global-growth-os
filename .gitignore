@@ -1,0 +1,13 @@
+# macOS 系统文件
+.DS_Store
+
+# 本地工具 / 临时目录
+.newmax/
+.tmp-*
+.tmp-feishu-audit/
+
+# 私密内容（不进入公开仓库）
+# archive/ 含历史快照与 agent 会话记忆，默认不公开
+/archive/
+# outputs/ 为本地工作底稿，按项目设计"不自动进入 Public Core"，默认不公开
+/outputs/
