@@ -1,13 +1,72 @@
-# macOS 系统文件
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+.coverage
+.env
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
 .DS_Store
 
-# 本地工具 / 临时目录
+# Node (if using Node-based tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Data and logs
+*.log
+*.csv
+*.xlsx
+*.xls
+data/
+/outputs/
+temp/
+tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+.finder_attributes
+
+# Misc
+.env.local
+.env.*.local
+*.bak
+*.tmp
+
+# Local Global Growth OS private content
+# archive/ contains historical snapshots and agent session memory — keep private
+/archive/
+# Local tool / temp dirs
 .newmax/
 .tmp-*
 .tmp-feishu-audit/
-
-# 私密内容（不进入公开仓库）
-# archive/ 含历史快照与 agent 会话记忆，默认不公开
-/archive/
-# outputs/ 为本地工作底稿，按项目设计"不自动进入 Public Core"，默认不公开
-/outputs/
