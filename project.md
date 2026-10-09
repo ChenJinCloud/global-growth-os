@@ -1,8 +1,8 @@
 # 项目：Global Growth OS
 
-> 状态：v0.1 Manual Runtime 建设中  
-> 本地位置：`/Users/jinchen/01-global-growth-system/projects/global-growth-os`  
-> 公开仓库：`ChenJinCloud/global-growth-os`（当前线上状态需实时核验）
+> 状态：content-v0.1 已开放；runtime-v0.1 Manual Runtime 建设中\
+> 更新：2026-10-09\
+> 公开仓库：[ChenJinCloud/global-growth-os](https://github.com/ChenJinCloud/global-growth-os)；[飞书知识库](https://my.feishu.cn/wiki/Kg2qw1cJCiYOOMkPFVocqbZXn9f)
 
 ## 项目定位
 
@@ -43,7 +43,9 @@ Mission → Run → Artifact → Evaluation → Feedback
 
 ### 已落盘
 
-- 公开第一阶段策略备忘：对外只输出四层内容架构，完整 OS 设计留本地（见 `public-core/decisions/2026-09-13-public-phase1-four-layer-strategy.md`）；
+- [现行公开边界](public-core/decisions/2026-10-09-public-boundary-and-version-policy.md)：公开通用架构和经审核的可复用内容，团队运行实例保留私有；
+- [版本与交付定义](public-core/VERSIONING.md)：content-v0.1 是知识内容首版，runtime-v0.1 尚未验收；
+- [飞书资源索引](public-core/content-index.md)：关联公开入口与正文；
 - 完整概念架构与 v0.1 边界；
 - Public Core 的初始 GitHub 建设记录；
 - AWW'26 Build in Public 与公测实验材料；
@@ -56,7 +58,7 @@ Mission → Run → Artifact → Evaluation → Feedback
 - Demand、Mission、Capability、Run、Artifact、Evaluation 的统一模板或注册表；
 - 至少一个按完整对象和状态链运行、复盘并回流的真实 Mission；
 - 本地私有项目、GitHub、chenjin.io 和飞书之间经过验证的发布与同步关系；
-- v0.1 的正式版本验收和发布记录。
+- runtime-v0.1 的正式验收和发布记录。
 
 ## 权威文件
 

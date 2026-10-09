@@ -1,105 +1,42 @@
-# 🌍 全球增长操作系统 (Global Growth OS)
+# 全球增长操作系统（Global Growth OS）
 
-一个开放的出海增长研究、实验、工作流和可复用工具的操作系统。**公开建造**阶段从 9/10 到 9/24，9/24 晚间举办公测展示。
+Global Growth OS 把出海增长的判断与执行组织为可复用系统。公开部分包括知识内容与通用架构，也包括实验材料，具体团队通过私有实例运行任务。
 
-## 🎯 项目使命
+## 开始使用
 
-从0到1：通过14天**公开建造**，将出海增长的常识、研究方法论和工具箱，长成一个人人可提问的知识库。
+- [飞书知识库：开始这里](https://my.feishu.cn/wiki/Kg2qw1cJCiYOOMkPFVocqbZXn9f)：按实际问题阅读知识正文。
+- [公开资源索引](public-core/content-index.md)：查找方法、工作流和案例。
+- [项目定义](project.md)、[路线图](ROADMAP.md)和[完整架构](architecture/global-growth-os-concept-and-architecture-v0.1.md)：了解系统范围与建设状态。
+- [公开边界](public-core/decisions/2026-10-09-public-boundary-and-version-policy.md)与[版本定义](public-core/VERSIONING.md)：判断具体交付范围。
 
-## 📐 四层架构
+## 当前状态
 
-### 1️⃣ 基础层：岗位与常识
-- 出海增长岗位职能与能力需求
-- 行业基本工具与平台清单
-- 增长领域基础常识库
+| 对象 | 状态 |
+|---|---|
+| content-v0.1 | 2026-09-23 已开放公开知识内容首版，持续维护 |
+| architecture v0.1 | 已形成通用设计 |
+| runtime-v0.1 | Manual Runtime 建设中，尚未完成真实 Mission 验收 |
+| 工具包 | 飞书提供指南与部分模板；仓库尚未提供 Excel、Python、SQL 或 Notion 工具包 |
+| AWW'26 | 2026-09-24 杭州活动已举行；实验数量目标尚未全部核验 |
 
-### 2️⃣ 输入层：Deep Dive 方法论与信源
-- 个人调研方法论完整梳理
-- 增长领域高质量信源汇总
-- 按需求产出的深挖内容
+飞书正文与 GitHub 导航已建立对应入口。全文发布映射和持续同步机制仍待建设。
 
-### 3️⃣ 输出层：增长工具箱
-- 针对方法论和信息沉淀的工具箱
-- 解决工作流痛点的工具组合
-- 可实操的工具集成与教程
+## 内容与目录
 
-### 4️⃣ 迭代层：活动与反馈
-- 线下交流活动与公测夜
-- 持续收集用户反馈
-- 验证与迭代前三层内容
+四层内容视图包括岗位与常识、方法论与信源、增长工具、反馈与社区。完整架构同时定义 Kernel、Domain Model、Strategy & Organization、Context、Capability、Runtime 和 Evaluation；这些定义的实现状态见路线图。
 
-## 🚀 快速开始
+| 目录 | 内容 |
+|---|---|
+| [docs/](docs/) | 基础与方法内容入口 |
+| [toolkit/](toolkit/) | 已有工具指南与模板入口 |
+| [experiments/](experiments/) | 有边界的实验和历史活动材料 |
+| [public-core/](public-core/) | 公开边界、版本和资源索引 |
+| [feedback/](feedback/) | 反馈渠道与处理方式 |
 
-- 📖 **先读这个**: [docs/README.md](./docs/)
-- 🛠️ **探索工具**: [toolkit/README.md](./toolkit/)
-- 🔬 **查看案例**: [experiments/README.md](./experiments/)
-- 🤝 **参与贡献**: [CONTRIBUTING.md](./CONTRIBUTING.md)
+## 参与共建
 
-## 📅 公开建造时间线
+使用[需求反馈表](https://my.feishu.cn/share/base/shrcnXy0zBFlHPCRBYWSclg4BBb)或[GitHub Issues](https://github.com/ChenJinCloud/global-growth-os/issues)提出问题。贡献方法或工具前阅读[贡献指南](CONTRIBUTING.md)。提交实际资源和验证证据，保留来源，不上传团队内部数据或凭证。
 
-| 时间 | 里程碑 |
-|------|--------|
-| 9/10-9/24 | 每日进展发布于[公众号「陈今AI」](https://mp.weixin.qq.com/)和[即刻「陈今」](https://okjike.com/) |
-| 9/23 | v0.1 版本发布 |
-| 9/24 19:00-21:00 | 公测夜现场展示 + 社区共创 |
+仓库许可证见[MIT License](LICENSE)。外链资源、第三方素材及付费内容的授权以各自声明为准。
 
-## 🎁 9/24 公测夜现场体验
-
-**时间**: 9月24日 晚间 19:00-21:00  
-**地点**: 杭州 · AWW'26 第21场 · 未科1期（场馆待 Laura 确认）  
-
-**现场体验内容**:
-- ✨ 知识库实时问答演示
-- 🛠️ 工具箱动手体验
-- 💭 社区反馈收集与讨论
-- 🗳️ v0.2 方向投票
-
-**想参与？**
-- 📝 填写 [需求反馈表](https://my.feishu.cn/share/base/shrcnEvCWvO9bLifOEOVlZzlyub)
-- 或参与 [GitHub Discussions](#)
-
-## 📊 当前建设进度
-
-核心里程碑：
-- [ ] 第1层 - 岗位与常识 (进行中)
-- [ ] 第2层 - 方法论与信源 (进行中)  
-- [ ] 第3层 - 工具箱 v0.1 (进行中)
-- [ ] 网站原型 (即将开始)
-- [ ] 飞书知识库集成 (即将开始)
-- [x] v0.1 发布目标: 9月23日
-- [ ] 公测展示: 9月24日
-
-## 🤝 如何参与贡献
-
-我们在公开建造，诚邀您的参与！
-
-### 贡献方式：
-1. **提议内容** - 用 [Issue](../../issues/new?template=content-suggestion.md) 模板提出需要 deep dive 的主题
-2. **贡献工具** - 提交 PR，贡献新的模板、脚本或工具箱内容
-3. **参与实验** - 帮助测试方法论和工作流
-4. **分享反馈** - 填写 [社区反馈表](#)
-
-详见 [CONTRIBUTING.md](./CONTRIBUTING.md)。
-
-## 📌 资源与链接
-
-- **社区反馈**: https://my.feishu.cn/share/base/shrcnEvCWvO9bLifOEOVlZzlyub
-- **关注进展**: 
-  - 公众号: 「陈今AI」
-  - 即刻: 「陈今」
-- **参与讨论**: [GitHub Discussions](#)
-- **提出建议**: [GitHub Issues](#)
-
-## 📄 开源协议
-
-MIT License - 详见 [LICENSE](./LICENSE)
-
----
-
-**最后更新**: 2026年9月13日  
-**维护者**: [陈今](https://github.com/ChenJinCloud)  
-**下一步**: 继续公开建造，冲刺 9/24 杭州 AWW'26 公测夜
-
----
-
-**[English README](./README.md) | 中文版本**
+更新：2026-10-09。[English](README.md) | 中文

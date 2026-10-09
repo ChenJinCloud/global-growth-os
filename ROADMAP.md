@@ -9,9 +9,9 @@
 - [x] 将 `projects/global-growth-os/` 确立为整个 OS 的唯一项目目录
 - [x] 合并重复的 `proj-1788924797868-czj6i7` 本地项目入口
 - [x] 将 AWW'26 公测降为 OS 下的一次实验
-- [ ] 实时核验公开 GitHub 仓库当前结构、提交和发布状态
+- [x] 2026-10-09 核验公开 GitHub 结构、提交和发布状态
 
-## 阶段 1：v0.1 Manual Runtime
+## 阶段 1：runtime-v0.1 Manual Runtime
 
 - [ ] 建立最小 Kernel：产品价值、目标用户、North Star、约束与运行原则
 - [ ] 建立 Strategy Card 与 Organization Card
@@ -22,14 +22,17 @@
 - [ ] 建立 Run Log、Artifact 验收和 Evaluation 模板
 - [ ] 完整运行至少一个真实 Mission，并保留反馈回流记录
 
-## 阶段 2：Public Core v0.1
+## 阶段 2：Public Core 内容与发布治理
 
-- [ ] 对齐本地架构与 `ChenJinCloud/global-growth-os` 公开仓库
-- [ ] 明确公开知识、能力包、案例与贡献契约
-- [ ] 建立来源、版本、适用范围、验证状态和失效条件
+- [x] 对齐通用架构的公开边界与 `ChenJinCloud/global-growth-os` 声明
+- [x] 明确公开知识、能力包、案例与贡献要求
+- [x] 定义版本范围与交付状态；见[版本定义](public-core/VERSIONING.md)
+- [ ] 为每个能力包补齐来源、适用范围、验证状态和失效条件
 - [ ] 建立 chenjin.io、GitHub 与飞书各自的职责和发布链路
 - [ ] 完成来源、隐私和公司边界审核
-- [ ] 发布可验证的 Public Core v0.1
+- [x] 2026-09-23 开放公开知识内容首版 content-v0.1；见[版本定义](public-core/VERSIONING.md)
+- [x] 建立[飞书资源索引](public-core/content-index.md)
+- [ ] 完成逐篇正文发布映射与持续同步机制
 
 ## 阶段 3：真实实验与反馈
 

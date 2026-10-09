@@ -1,9 +1,9 @@
 # Global Growth OS：概念、系统架构与 v0.1 边界
 
 > 状态：工作准源（Working Source of Truth）  
-> 版本：v0.1  
+> 版本：architecture v0.1（设计版本）；本文 Runtime 里程碑按 [runtime-v0.1](../public-core/VERSIONING.md) 定义\
 > 日期：2026-09-11  
-> 最后更新：2026-09-11（整合增长组织系统与中台化参考）  
+> 最后更新：2026-10-09（统一公开边界与版本定义；通用架构设计保留）\
 > 适用范围：Global Growth OS 的长期概念、公开系统架构、个人网站定位与当前最小实现  
 > 不代表：已经完成的产品、已经验证的商业模式、对外承诺或公司内部系统
 
@@ -505,7 +505,7 @@ v0.1 不证明 Global Growth OS 已经完整，也不证明商业模式成立。
 | GitHub | 公开 Core、版本、Skills、结构化组件、Issue 和贡献记录 | 不保存私密业务状态和凭证 |
 | 飞书知识库 | 阅读、提问、协作、活动使用和低门槛反馈 | 不单独定义系统架构和权威边界 |
 
-私有的 `/Users/jinchen/01-global-growth-system/projects/global-growth-os` 是整个 Global Growth OS 的本地项目权威目录；`01-global-growth-system` 仍是包含公司项目、合作和活动在内的更大增长领域工作区。公开 Global Growth OS 是从私有项目中经过审核和脱敏形成的 Public Core，不应把整个私有目录直接发布。
+私有工作区中的 `projects/global-growth-os/` 是整个 Global Growth OS 的本地项目权威目录；`01-global-growth-system` 仍是包含公司项目、合作和活动在内的更大增长领域工作区。公开 Global Growth OS 是从私有项目中经过审核和脱敏形成的 Public Core，不应把整个私有目录直接发布。
 
 ### 8.4 v0.1 暂不建设
 
@@ -680,8 +680,8 @@ Global Growth OS v0.1 是否成立，不以页面数量、文章数量或 Skill 
 1. Global Growth OS 的首个核心用户究竟是增长实践者、Founder / Growth Lead，还是同时允许两条入口但只优化其中一条？
 2. 首个最值得反复运行的 Growth Mission 是市场情报、ICP、Launch、内容分发、Influencer、合作伙伴还是数据复盘？
 3. “Global Growth OS”是长期公开品牌、产品名，还是当前阶段的工作名称？
-4. Public Core 的权威仓库、许可证、贡献协议和版本策略是什么？
-5. 飞书知识库与 GitHub 哪一个保存公开知识的权威版本，如何避免双向漂移？
+4. Public Core 的仓库、许可证和版本范围已在公开入口明确；后续能力包的独立验收仍待建立。
+5. 飞书保存现有公开知识正文，GitHub 保存公开设计与资源索引；逐篇迁移和持续同步机制仍待建设。
 6. Skill 采用哪一种开放格式，是否需要兼容不同 Agent 平台？
 7. 哪些能力只能提供判断和建议，哪些可以连接外部系统执行动作？
 8. 商业化更适合围绕 Mission、实施 Sprint、托管实例、会员访问还是其他形态？
@@ -696,15 +696,14 @@ Global Growth OS v0.1 是否成立，不以页面数量、文章数量或 Skill 
 
 ## 15. 相关材料与研究依据
 
-### 本地相关材料
+### 项目与版本依据
 
-- `project.md`：私有全球化增长系统的范围与边界。
-- `ROADMAP.md`：私有系统的阶段计划与里程碑。
-- `projects/global-growth-os/project.md`：整个 Global Growth OS 的项目范围、当前状态与权威关系。
-- `projects/global-growth-os/experiments/aww26-launch/project.md`：AWW'26 公开实验、活动与当次数量目标。
-- `/Users/jinchen/Documents/ChatGPT/02-personal-ip-system/2026-08-31-微信双账号问题解决与未来产出地图.md`：基于双账号本地归档形成的能力与未来方向地图。
-- `/Users/jinchen/Documents/Codex/2026-08-19/chatgpt/wechat-group-icp-analysis-2026-09-04.md`：基于群聊归档形成的商业 ICP 假设。
-- 2026-09-11 用户提供的“字节 UG 增长系统”经验性叙述：用于抽象 Operating Kernel、Organization、Strategy Control Plane、Evidence Plane、Capability Platform 和 Runtime Loop；未作为对字节内部事实或行业优劣的独立核验来源。
+- [项目定义](../project.md)：整个 Global Growth OS 的范围与状态。
+- [路线图](../ROADMAP.md)：阶段与里程碑。
+- [AWW'26 实验](../experiments/aww26-launch/project.md)：活动与当次验收目标。
+- [公开边界](../public-core/decisions/2026-10-09-public-boundary-and-version-policy.md)与[版本定义](../public-core/VERSIONING.md)：通用架构公开，团队实例私有；Runtime 仍待验收。
+
+私有归档提供部分设计背景，其原文与本地路径不进入公共资源清单。2026-09-11 用户提供的增长系统经验叙述用于抽象系统层级，未作为对特定公司内部事实的独立核验来源。
 
 ### Agent / Agent Infra 一手参考
 

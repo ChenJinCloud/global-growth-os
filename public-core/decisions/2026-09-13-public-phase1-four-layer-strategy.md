@@ -1,6 +1,6 @@
 # 决策备忘：公开第一阶段以四层内容架构为准
 
-> 状态：已确认  
+> 状态：历史策略；2026-10-09 已由[公开边界与版本决策](2026-10-09-public-boundary-and-version-policy.md)替代\
 > 日期：2026-09-13  
 > 范围：Public Core 对外公示策略；不改变本地完整 OS 工作准源  
 > 相关：`ChenJinCloud/global-growth-os`、本地 `architecture/`、`project.md`、`ROADMAP.md`
