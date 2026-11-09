@@ -4,6 +4,7 @@ Global Growth OS organizes global growth decisions and execution into a reusable
 
 ## Start here
 
+- **[Playbooks](playbooks/): take-away templates you can fill in and use today.** First one: [run a launch event](playbooks/launch-event/) — run-of-show table, agenda manual, promotion copy, materials checklist, and a T-7 → T+2 checklist.
 - [Feishu knowledge base](https://my.feishu.cn/wiki/Kg2qw1cJCiYOOMkPFVocqbZXn9f): read content by practical task.
 - [Public resource index](public-core/content-index.md): find methods, workflows, and cases.
 - [Project](project.md), [roadmap](ROADMAP.md), and [architecture](architecture/global-growth-os-concept-and-architecture-v0.1.md): check scope and progress.
