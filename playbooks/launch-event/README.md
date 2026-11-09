@@ -52,6 +52,21 @@
 
 不适合：纯线上发布会、还没成型的概念验证、需要严格保密的产品。
 
+## 延伸阅读（飞书知识库）
+
+这套模板的原始材料在飞书知识空间 **Global-Growth-OS** 里，需要飞书账号才能打开。
+
+| 文档 | 什么时候看 |
+| --- | --- |
+| [AI 全球化增长公测夜：活动记录与原始证据](https://my.feishu.cn/wiki/WIIuwmnTKiguO6kfhCyc7eARnXg) | 想看完整原始材料，不只是脱敏案例 |
+| [Launch 与渠道执行工具箱（v0.1）](https://my.feishu.cn/wiki/DwgzwPfsmiYoTNkxIUUcMB5In1f) | 渠道清单与执行口径 |
+| [Launch Brief 模板](https://my.feishu.cn/wiki/Un3owbj5AiIyrjkCHflcyWCLnIc) | 活动前把目标、人群、承接写成一页 |
+| [Launch 复盘模板](https://my.feishu.cn/wiki/KL1swwGUIiFn0Lk4DGbceHg9nAc) | 散场后按这个结构复盘 |
+| [增长实验记录模板](https://my.feishu.cn/wiki/GflKwhzSXiQonBkWBQEcsF6ened) | 把一次活动记成可复用的实验 |
+| [竞品 Launch 调研记录模板](https://my.feishu.cn/wiki/U1YNwu0Vmiwe9fkVSMTcjvdensc) | 研究别人的发布时用 |
+| [发布前先明确目标与承接能力](https://my.feishu.cn/wiki/MeRIwk2rxi2Wlsk2p2ocQroAnHS) | "定目标"那一步的判据 |
+| [X 达人投放 SOP：筛选、预算与分波发布](https://my.feishu.cn/wiki/Us06wINlKim4ldksk9DcY2AgnRd) | 活动前要铺达人投放时看 |
+
 ## 咨询入口
 
 这套材料是我在真实活动里跑出来的。如果你希望有人陪你走一遍——选题、流程设计、现场控制、复盘——可以约 1:1 咨询：**chenjin.io**（页脚有联系方式）。
